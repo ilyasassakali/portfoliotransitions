@@ -8,7 +8,7 @@
 }
 
 :root {
-	--mainColor: #3a86ff;
+	--mainColor: #212530;
 	--secondaryColor: #ff006e;
     --thirdColor: #8338EC;
     --fourthColor: #FB5607;
@@ -30,6 +30,7 @@ nav a {
 	margin: 0 1rem;
 	color: var(--textColor);
 	text-decoration: none;
+	font-size: 20px;
 }
 
 nav a:hover {
