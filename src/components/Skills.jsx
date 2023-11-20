@@ -1,4 +1,5 @@
 import React from "react";
+import transition from "../transition";
 
 function Skills() {
     return ( 
@@ -8,4 +9,4 @@ function Skills() {
     );
 }
 
-export default Skills;
+export default transition(Skills);

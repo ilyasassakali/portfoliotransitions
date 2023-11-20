@@ -2,6 +2,7 @@ import React from "react";
 import "../styles/Home.css"
 import imageilyas from "../images/ilyasassakali.jpg"
 import { motion } from "framer-motion";
+import transition from "../transition";
 
 
 function Home() {
@@ -97,4 +98,4 @@ function Home() {
     );
 }
 
-export default Home;
+export default transition(Home);

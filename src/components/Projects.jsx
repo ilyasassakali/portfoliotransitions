@@ -1,4 +1,5 @@
 import React from "react";
+import transition from "../transition";
 
 function Projects() {
     return ( 
@@ -8,4 +9,4 @@ function Projects() {
     );
 }
 
-export default Projects;
+export default transition(Projects);

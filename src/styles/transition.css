@@ -1,0 +1,35 @@
+.startscreen-in{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background: #212530;
+    transform-origin: bottom;
+}
+
+.startscreen-out{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background: #212530;
+    transform-origin: top;
+}
+
+.text-out {
+  position: fixed;
+  top: 0;
+  color: white;
+  font-size: 250px;
+  font-weight: bold;
+  left: 40%; 
+}
+  
+@media only screen and (max-width: 1024px) {
+    .text-out {
+        font-size: 200px;
+        left: 20%; 
+      }
+}
