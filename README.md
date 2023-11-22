@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# Documentation
+
+- Init react app: https://legacy.reactjs.org/docs/create-a-new-react-app.html
+- Motion Animations/Transitions from framer-motion: https://www.framer.com/motion/component/
+- AnimatePresence for transition.js animation from page to page: https://www.framer.com/motion/animate-presence/
+- Lottie Animations for react: https://www.npmjs.com/package/lottie-react
+- Type Animation for react: https://react-type-animation.netlify.app/
+- Grapheme-splitter to use emoji's with javascript in About page: https://www.npmjs.com/package/grapheme-splitter
+- 
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

@@ -47,7 +47,7 @@ function Home() {
                 ease: [0, 0.71, 0.2, 1.01]
                 }}
             >
-                I'm a Full Stack Developer
+                I'm a <span className="coloredWord">Full Stack Developer</span>
             </motion.p>
 
             <div className="social-media">
