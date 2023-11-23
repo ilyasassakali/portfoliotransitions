@@ -1,0 +1,162 @@
+{
+    "skills": [{
+     
+        "title": "Languages & Databases",
+        "items" : [
+ 
+            {
+                "icon": "images/skills/html.png",
+                "title": "HTML"
+            },
+            {
+                "icon": "images/skills/css.png",
+                "title": "CSS"
+            },
+            {
+                "icon": "images/skills/js.png",
+                "title": "JavaScript"
+            },
+            {
+                "icon": "images/skills/typescript.png",
+                "title": "TypeScript"
+            },
+            {
+                "icon": "images/skills/java.png",
+                "title": "Java"
+            },
+            {
+                "icon": "images/skills/kotlin.png",
+                "title": "Kotlin"
+            },
+            {
+                "icon": "images/skills/php.png",
+                "title": "PHP"
+            },
+            {
+                "icon": "images/skills/csharp.png",
+                "title": "C#"
+            },
+            {
+                "icon": "images/skills/mysql.png",
+                "title": "MySQL"
+            },
+            {
+                "icon": "images/skills/sqlite.png",
+                "title": "SQLite"
+            },
+            {
+                "icon": "images/skills/mongo-db.png",
+                "title": "MongoDB"
+            },
+            {
+                "icon": "images/skills/postgresql.png",
+                "title": "PostgreSQL"
+            }
+    ]},
+    {
+        "title": "Frameworks & Technologies",
+        "items" : [
+            
+            {
+                "icon": "images/skills/react.png",
+                "title": "React"
+            },
+            {
+                "icon": "images/skills/vue.png",
+                "title": "Vue"
+            },
+            {
+                "icon": "images/skills/laravel.png",
+                "title": "Laravel"
+            },
+            {
+                "icon": "images/skills/springboot.png",
+                "title": "Spring Boot"
+            },
+            {
+                "icon": "images/skills/nodejs.png",
+                "title": "Nodejs"
+            },
+            {
+                "icon": "images/skills/next.png",
+                "title": "Next"
+            },
+            {
+                "icon": "images/skills/nuxt.png",
+                "title": "Nuxt"
+            },
+            {
+                "icon": "images/skills/tailwind.png",
+                "title": "Tailwind"
+            },
+            {
+                "icon": "images/skills/bootstrap.png",
+                "title": "Bootstrap"
+            },
+            {
+                "icon": "images/skills/android_new.png",
+                "title": "Android"
+            },
+            {
+                "icon": "images/skills/maven.png",
+                "title": "Maven"
+            },
+            {
+                "icon": "images/skills/gradle.png",
+                "title": "Gradle"
+            }
+        ]
+    },
+    {
+        "title" : "Tools & Platforms",
+        "items": [
+            {
+                "icon": "images/skills/vscode.png",
+                "title": "Visual Studio"
+            },
+            {
+                "icon": "images/skills/intellij.png",
+                "title": "IntelliJ"
+            },
+            {
+                "icon": "images/skills/phpstorm.png",
+                "title": "PhpStorm"
+            }
+            ,
+            {
+                "icon": "images/skills/android-studio.png",
+                "title": "Android Studio"
+            },
+            {
+                "icon": "images/skills/git.png",
+                "title": "Git"
+            },
+            {
+                "icon": "images/skills/docker.png",
+                "title": "Docker"
+            }
+        ]
+},
+{
+    "title" : "Design Tools",
+    "items": [
+        {
+            "icon": "images/skills/figma.png",
+            "title": "Figma"
+        },
+        {
+            "icon": "images/skills/xd.png",
+            "title": "Xd"
+        },
+        {
+            "icon": "images/skills/illustrator.png",
+            "title": "Illustrator"
+        }
+        ,
+        {
+            "icon": "images/skills/photoshop.png",
+            "title": "Photoshop"
+        }
+    ]
+}]
+}

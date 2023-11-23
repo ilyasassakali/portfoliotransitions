@@ -35,6 +35,7 @@ nav a {
 
 nav a:hover {
 	color: var(--secondaryColor);
+	opacity: 50%;
 }
 
 header .nav-btn {
@@ -53,6 +54,10 @@ header div,
 nav {
 	display: flex;
 	align-items: center;
+}
+
+nav a.active {
+	color: #ff006e; 
 }
 
 @media only screen and (max-width: 1024px) {
