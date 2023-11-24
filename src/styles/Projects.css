@@ -1,0 +1,69 @@
+.projects-container {
+    display: flex;
+    max-width: 1200px;
+    margin: 50px auto;
+    padding: 20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    align-items: center;
+  }
+  
+  .projects-container .project-details {
+    flex: 1;
+    padding-right: 20px;
+    width: 60%;
+  }
+
+  .projects-container img {
+    width: 500px;
+  }
+  
+  .projects-container  .project-details h1 {
+    font-size: 24px;
+  }
+  
+  .projects-container .project-details p {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  .projects-container .buttons {
+    margin-bottom: 20px;
+  }
+  
+  .projects-container .buttons a {
+    margin-right: 10px;
+    padding: 10px;
+    border: 1px solid #ff006e;
+    color: #ff006e;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  .projects-container .buttons a:hover {
+    background-color: #ff006e;
+    color: white;
+  }
+  
+  .projects-container .technologies h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .projects-container.technologies ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .projects-container .technologies li {
+    margin:  10px 10px 10px 0;
+    display: inline-block;
+    background-color: #ff006e;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 100px;
+    font-size: 13px;
+  }
+  

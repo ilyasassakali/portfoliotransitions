@@ -1,0 +1,84 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/chatapp.png",
+            "title": "LiveConnectRooms",
+            "bodyText": "LiveConnectRooms is a dynamic live chat application that enables users to create and join live rooms for interactive discussions. This platform facilitates real-time conversations, allowing users to engage with others in a seamless live chat environment.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/ilyasassakali/liveChattApp"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://frontpage-3uwl.onrender.com/"
+                }
+            ],
+            "tags" : [
+                "VueJs 3",
+                "JavaScript",
+                "Socket.io",
+                "Vite",
+                "Express",
+                "Node",
+                "MongoDB"
+            ]
+        },
+        {
+            "image" : "images/projects/islamic.png",
+            "title": "Dev Portfolio",
+            "bodyText": "Immerse yourself in the world of Islamic architecture through this captivating parallax website. It transcends conventional presentations by providing a dynamic and interactive experience. Instead of static pages, the site uses parallax scrolling to offer a seamless journey through the intricacies of Islamic architectural marvels.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/EHB-MCT/frontend-werkstuk-22-23-ilyasassakali"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://front-end-ilyas-assakali-22-23.netlify.app/parallax"
+                }
+            ],
+            "tags" : [
+                "React",
+                "JavaScript",
+                "Framer-motion",
+                "Node"
+            ]
+        },
+        {
+            "image" : "images/projects/plannerpro.png",
+            "title": "Planner Pro",
+            "bodyText": "Planner Pro is a revolutionary scheduling tool tailored for educational institutions. It provides an interactive calendar where subjects, classrooms, and instructors can be seamlessly organized within a user-friendly agenda. Moreover, students gain access to view their schedules effortlessly.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/EHB-MCT/back-end-course-project-ilyasassakali"
+                }
+            ],
+            "tags" : [
+                "Laravel",
+                "PHP",
+                "Tailwind",
+                "Composer"
+            ]
+        },
+        {
+            "image" : "images/projects/muzzy.png",
+            "title": "Muzzy",
+            "bodyText": "Muzzy is an online streaming platform where you can listen to music. The difference with the daily streaming platforms and Muzzy is that you can share music with your friends by MUZZZ them. MUZZ means that you are going to share your opinion and feelings about a song, album or artist and you will also give a score out of 100. When it's done you can publish it and your friends and the entire world can see your MUZZ and if they liked it they can go listen to the track,album or artist.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/EHB-MCT/web-2-frontend-22-23-ilyasassakali"
+                }
+            ],
+            "tags" : [
+                "Vanilla JavaScript",
+                "Node",
+                "Express",
+                "MongoDB"
+            ]
+        }
+        
+    ]
+}

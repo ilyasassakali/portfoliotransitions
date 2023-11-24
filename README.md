@@ -6,7 +6,7 @@
 - Lottie Animations for react: https://www.npmjs.com/package/lottie-react
 - Type Animation for react: https://react-type-animation.netlify.app/
 - Grapheme-splitter to use emoji's with javascript in About page: https://www.npmjs.com/package/grapheme-splitter
-- 
+- React-intersection-observer to animate when project is inView: https://www.npmjs.com/package/react-intersection-observer
 
 
 
