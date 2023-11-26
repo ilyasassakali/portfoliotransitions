@@ -7,6 +7,8 @@
 - Type Animation for react: https://react-type-animation.netlify.app/
 - Grapheme-splitter to use emoji's with javascript in About page: https://www.npmjs.com/package/grapheme-splitter
 - React-intersection-observer to animate when project is inView: https://www.npmjs.com/package/react-intersection-observer
+- Click and Hover animations with framer gesture: https://www.framer.com/motion/gestures/
+  
 
 
 

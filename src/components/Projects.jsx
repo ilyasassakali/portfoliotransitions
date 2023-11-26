@@ -36,6 +36,8 @@ function ProjectCard({ project }) {
       variants={containerVariants}
       initial="hidden"
       animate={inView ? "visible" : "hidden"}
+      whileHover={{ scale: 1.1 }}
+      transition={{ type: "spring", stiffness: 200, damping: 10 }}
     >
       <div className="project-details">
         <h1>{project.title}</h1>

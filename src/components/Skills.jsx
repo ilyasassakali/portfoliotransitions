@@ -26,7 +26,7 @@ function Skills() {
   useEffect(() => {
     const timeout = setTimeout(() => {
       setAnimationReady(true);
-    }, 1000);
+    }, 700);
 
     return () => clearTimeout(timeout);
   }, []); // Runs once on component mount
@@ -51,6 +51,9 @@ function Skills() {
                 key={itemIndex}
                 className="skill-item"
                 variants={itemVariants}
+                whileHover={{ scale: 1.2 }}
+                whileTap={{ scale: 0.9 }}
+                transition={{ type: "spring", stiffness: 400, damping: 10 }}
               >
                 <img src={item.icon} alt={item.title} />
                 <p>{item.title}</p>

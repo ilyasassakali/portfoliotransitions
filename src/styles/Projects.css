@@ -67,3 +67,19 @@
     font-size: 13px;
   }
   
+  @media only screen and (max-width: 1024px) {
+    .projects-container {
+      flex-direction: column;
+      text-align: center;
+    }
+  
+    .projects-container .project-details {
+      width: 100%;
+      padding-right: 0;
+    }
+  
+    .projects-container img {
+      width: 100%;
+      margin-bottom: 20px;
+    }
+}

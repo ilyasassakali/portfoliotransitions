@@ -7,8 +7,6 @@ import transition from "../transition";
 
 function Home() {
    
-
-
     return ( 
     
         <div className="mainContainer">
@@ -21,7 +19,11 @@ function Home() {
                 ease: [0, 0.71, 0.2, 1.01]
             }}
             >
-            <img src={imageilyas} alt="" />
+            <motion.img
+            whileHover={{ scale: 1.1 }}
+            whileTap={{ scale: 0.9 }}
+            transition={{ type: "spring", stiffness: 400, damping: 10 }}
+             src={imageilyas} alt="" />
             </motion.div>
 
 
